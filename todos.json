@@ -1,22 +1,22 @@
 const todos = [
     {
-        id: 1,
-        name: "abc",
-        checked: true
+        "id": 1,
+        "name": "abc",
+        "checked": true
     },
     {
-        id: 2,
-        name: "def",
-        checked: true
+        "id": 2,
+        "name": "def",
+        "checked": true
     },
     {
-        id: 3,
-        name: "pqr",
-        checked: false
+        "id": 3,
+        "name": "pqr",
+        "checked": false
     },
     {
-        id: 4,
-        name: "xyz",
-        checked: false
+        "id": 4,
+        "name": "xyz",
+        "checked": false
     }
 ]
